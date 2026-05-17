@@ -2,6 +2,9 @@ site_name: GEOCOM Base de Datos Técnica
 
 site_url: https://schweineorgel.github.io/geocom-kb/
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   features:
@@ -15,6 +18,7 @@ plugins:
 
 markdown_extensions:
   - admonition
+  - attr_list
   - tables
   - toc:
       permalink: true
