@@ -110,10 +110,8 @@ Dentro de la sección **"Tarjeta SD"**:
 
 El sistema solicitará confirmación:
 
-1. Presionar:
-   - **BORRAR TARJETA SD**
-2. Confirmar nuevamente con:
-   - **BORRAR TODO**
+1. Presionar: **BORRAR TARJETA SD**
+2. Confirmar nuevamente con: **BORRAR TODO**
 
 ![Confirmación borrado](../assets/phantom4rtk-microsd/image10.jpg)
 
