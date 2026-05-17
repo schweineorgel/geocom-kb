@@ -36,7 +36,7 @@ En la ventana de formato:
 Luego presionar **"Iniciar"**
 
 <p align="center">
-  <img src="/assets/phantom4rtk-microsd/image15.png" width="50%">
+  <img src="/docs/assets/phantom4rtk-microsd/image15.png" width="50%">
 </p>
 
 ---
@@ -48,7 +48,7 @@ Cuando aparezca la ventana de advertencia, presionar:
 - **Aceptar**
 
 <p align="center">
-  <img src="/assets/phantom4rtk-microsd/image1.png" width="75%">
+  <img src="/docs/assets/phantom4rtk-microsd/image1.png" width="75%">
 </p>
 
 ---
@@ -68,7 +68,7 @@ Insertar la tarjeta Micro SD en el slot del control RC del Phantom 4 RTK.
 El slot se encuentra ubicado en el lado inferior derecho del control.
 
 <p align="center">
-  <img src="/assets/phantom4rtk-microsd/image3.jpg" width="75%">
+  <img src="/docs/assets/phantom4rtk-microsd/image3.jpg" width="75%">
 </p>
 
 ---
