@@ -8,7 +8,6 @@ extra_css:
 theme:
   name: material
   features:
-    - navigation.sections
     - navigation.top
     - search.suggest
     - search.highlight
@@ -27,4 +26,5 @@ nav:
   - Inicio: index.md
 
   - Procedimientos:
-      - Formateo Micro SD Phantom 4 RTK: procedimientos/phantom4rtk-microsd-format.md
+      - Phantom 4 RTK:
+          - Formateo Micro SD Phantom 4 RTK: Procedimientos/Phantom 4 RTK/phantom4rtk-microsd-format.md
