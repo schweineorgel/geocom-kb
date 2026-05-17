@@ -1,0 +1,24 @@
+site_name: GEOCOM Base de Datos Técnica
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Inicio: index.md
+
+  - Procedimientos:
+      - Formateo Micro SD Phantom 4 RTK: procedimientos/phantom4rtk-microsd-format.md
