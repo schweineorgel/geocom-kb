@@ -1,5 +1,7 @@
 site_name: GEOCOM Base de Datos Técnica
 
+site_url: https://schweineorgel.github.io/geocom-kb/
+
 theme:
   name: material
   features:
