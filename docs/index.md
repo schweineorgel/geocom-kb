@@ -1,6 +1,4 @@
-[![Deploy](https://github.com/schweineorgel/geocom-kb/actions/workflows/ci.yml/badge.svg)](https://github.com/schweineorgel/geocom-kb/actions) 
-![Repo Size](https://img.shields.io/github/repo-size/schweineorgel/geocom-kb)
-![Last Commit](https://img.shields.io/github/last-commit/schweineorgel/geocom-kb)
+[![Deploy](https://github.com/schweineorgel/geocom-kb/actions/workflows/ci.yml/badge.svg)](https://github.com/schweineorgel/geocom-kb/actions) ![Repo Size](https://img.shields.io/github/repo-size/schweineorgel/geocom-kb) ![Last Commit](https://img.shields.io/github/last-commit/schweineorgel/geocom-kb)
 
 # GEOCOM Base de Datos Técnica
 
