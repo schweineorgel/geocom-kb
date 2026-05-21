@@ -1,8 +1,8 @@
 # Formateo de tarjeta Micro SD para Phantom 4 RTK
 
-## Nota importante
+!!! warning "Capacidad máxima soportada"
 
-Para utilizar una tarjeta Micro SD con el Phantom 4 RTK, se debe considerar un almacenamiento máximo absoluto de **128 GB**.
+    Para utilizar una tarjeta Micro SD con el Phantom 4 RTK, se debe considerar un almacenamiento máximo absoluto de **128 GB**.
 
 ---
 
