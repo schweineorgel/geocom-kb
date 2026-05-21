@@ -26,5 +26,9 @@ nav:
   - Inicio: index.md
 
   - Procedimientos:
-      - Phantom 4 RTK:
-          - Formateo Micro SD Phantom 4 RTK: procedimientos/phantom-4-rtk/phantom4rtk-microsd-format.md
+      - DJI:
+          - Phantom 4 RTK:
+              - Formateo Micro SD Phantom 4 RTK: procedimientos/dji/phantom-4-rtk/phantom4rtk-microsd-format.md
+      - Trimble:
+          - Colectoras:
+              - FTP para Windows Mobile: procedimientos/trimble/wmftp.md
