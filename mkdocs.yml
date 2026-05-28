@@ -34,5 +34,5 @@ nav:
               - Configuración FTP WMFTP: procedimientos/trimble/wmftp.md
   - Diagnósticos:
       - DJI:
-          - Phantom 4 RTK:
-              - Diagnóstico de Falla ESC 3: diagnosticos/dji/phantom-4-rtk/phantom4rtk-esc3.md
+          - Matrice 4 Enterprise:
+              - Diagnóstico de Falla ESC 3: diagnosticos/dji/matrice4e/matrice4e-esc3.md
