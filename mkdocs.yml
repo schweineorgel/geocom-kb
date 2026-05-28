@@ -31,4 +31,8 @@ nav:
               - Formateo Micro SD Phantom 4 RTK: procedimientos/dji/phantom-4-rtk/phantom4rtk-microsd-format.md
       - Trimble:
           - Colectoras:
-              - FTP para Windows Mobile: procedimientos/trimble/wmftp.md
+              - Configuración FTP WMFTP: procedimientos/trimble/wmftp.md
+  - Diagnósticos:
+      - DJI:
+          - Phantom 4 RTK:
+              - Diagnóstico de Falla ESC 3: diagnosticos/dji/phantom-4-rtk/phantom4rtk-esc3.md
