@@ -104,7 +104,7 @@ La degradación del MOSFET asociado al ESC 3 provocó un comportamiento anómalo
 
 Esta degradación probablemente generó una conducción irregular y un aumento de corriente durante la conmutación de la fase afectada, alterando el control de velocidad del motor correspondiente al brazo M3.
 
-Durante el vuelo, esto se manifestó como una tendencia del dron a inclinarse hacia el lado frontal izquierdo, coherente con una anomalía de empuje en el brazo trasero derecho (M3). Finalmente, la falla derivó en la generación del error ESC 3.
+Durante el vuelo, esto se manifestó como una tendencia del dron a inclinarse hacia el lado frontal izquierdo, coherente con una anomalía de empuje en el brazo trasero izquierdo (M3). Finalmente, la falla derivó en la generación del error ESC 3.
 
 # Acción Correctiva
 

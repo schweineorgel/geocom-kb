@@ -24,7 +24,8 @@ markdown_extensions:
 
 nav:
   - Inicio: index.md
-
+  - Conceptos:
+      - Constelaciones GNSS: conceptos/gnss/constelaciones.md
   - Procedimientos:
       - DJI:
           - Phantom 4 RTK:
