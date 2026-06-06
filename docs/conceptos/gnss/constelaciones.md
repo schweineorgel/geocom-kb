@@ -60,6 +60,8 @@ Recomendación: Muy recomendable para aumentar disponibilidad y confiabilidad en
 
 Sistema desarrollado por India.
 
+![Mapa de cobertura de NavIC](../../assets/constelaciones/navic.jpg){ .center-img }
+
 Su cobertura principal está orientada al territorio indio y regiones cercanas.
 
 Recomendación: Poco relevante para operaciones en Chile y Latinoamérica.
@@ -73,6 +75,8 @@ Las constelaciones entregan la posición base, pero existen sistemas complementa
 ### QZSS
 
 QZSS (Quasi-Zenith Satellite System) es un sistema japonés diseñado para complementar GPS.
+
+![Mapa de cobertura de QZSS](../../assets/constelaciones/qzss.jpg){ .center-img }
 
 Cobertura aproximada:
 
