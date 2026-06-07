@@ -37,3 +37,7 @@ nav:
       - DJI:
           - Matrice 4 Enterprise:
               - Diagnóstico de Falla ESC 3: diagnosticos/dji/matrice4e/matrice4e-esc3.md
+      - Trimble:
+          - SX12:
+              - Diagnóstico de Falla de Conexión Wi-Fi: diagnosticos/trimble/sx12/sx12-falla-conexion-wifi.md
+              
