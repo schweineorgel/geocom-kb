@@ -67,7 +67,7 @@ La unidad de referencia de prueba (*Gold Unit*) utilizada actualmente en el labo
 
 ## Procedimiento General
 
-### 1. Configurar equipos
+#### 1. Configurar equipos
 Configurar el transmisor y el receptor de acuerdo con el procedimiento indicado en el manual de Trimble.
 
 **Ejemplo (R12i como transmisor):**
@@ -77,7 +77,7 @@ Configurar el transmisor y el receptor de acuerdo con el procedimiento indicado 
 3. Configurar un **Relay** entre el puerto serial y la radio interna, de forma que los paquetes generados por **SGS Test Suite** sean transmitidos a través de la radio UHF.
 4. Verificar que la frecuencia, protocolo y velocidad del enlace inalámbrico coincidan con la configuración del receptor (RX), que en el caso del laboratorio es una TDL450H.
 
-### 2. Verificar la configuración
+#### 2. Verificar la configuración
 Verificar que ambos equipos tengan la misma configuración:
 
 - Frecuencia
@@ -85,23 +85,19 @@ Verificar que ambos equipos tengan la misma configuración:
 - Velocidad del enlace inalámbrico
 - Espaciado de canal
 
-### 3. Realizar las conexiones
+> **Nota:** Consultar la sección "Unidad de Referencia (Gold Unit)".
+
+#### 3. Realizar las conexiones
 Realizar las conexiones según el diagrama del banco de pruebas.
 
-### 4. Iniciar la prueba
-Iniciar la prueba de throughput mediante CSGTestSuite.
+#### 4. Verificar recepción
+Verificar que se estén recibiendo paquetes. Esto se puede realizar mandando paquetes mediante CSG Test Suite con una atenuación baja (por ejemplo, 20-30 dB de atenuación en el atenuador variable JFW).
 
-### 5. Verificar recepción
-Verificar que se estén recibiendo paquetes.
-
-### 6. Verificar el banco de pruebas
-Aumentar la atenuación hasta provocar pérdida total de señal para confirmar el correcto funcionamiento del banco de pruebas.
-
-### 7. Ajustar la atenuación
+#### 5. Ajustar la atenuación
 Ajustar la atenuación al valor especificado en la tabla de atenuación correspondiente al equipo bajo prueba.
 
-### 8. Ejecutar la prueba
-Ejecutar la prueba durante:
+#### 6. Ejecutar la prueba
+Ejecutar la prueba, con CSG Test Suite, durante:
 
 - Al menos 10 minutos, o
 - Un mínimo de 500 paquetes transmitidos.
@@ -140,7 +136,7 @@ Atenuación total = 145 dB
 PRX esperado ≈ -112 dBm
 ```
 
-Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción. La documentación del atenuador variable JFW 50BR-016 describe una atenuación de inserción nominal de 1.5 dB, por ejemplo.
+Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción. Por ejemplo, la documentación del atenuador variable JFW 50BR-016 describe una atenuación de inserción nominal de 1.5 dB.
 
 ---
 
