@@ -8,7 +8,7 @@
 
 Este procedimiento describe la implementación del banco de pruebas de throughput de radio utilizado en el laboratorio para evaluar el funcionamiento y la salud de los radios UHF instalados en receptores GNSS Trimble.
 
-Este procedimiento se basa en el documento [**Trimble Radio Throughput Test Service Manual (P/N 65306-SVC Rev. F)**](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing). Para información detallada sobre teoría de operación, configuración de equipos y solución de problemas, consultar el manual de Trimble.
+Este procedimiento se basa en el documento [**Trimble Radio Throughput Test Service Manual (P/N 65306-SVC Rev. F)**](https://drive.google.com/file/d/19o1DHanCRYbwoAKr-1SYVM6f3Ll8Roej/view?usp=sharing). Para información detallada sobre teoría de operación, configuración de equipos y solución de problemas, consultar el manual de Trimble.
 
 ---
 
@@ -146,6 +146,6 @@ Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se conside
 
 ## Referencias
 
-* [Trimble Radio Throughput Test Service Manual, P/N 65306-SVC Rev. F](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing).
-* [Tabla de atenuación de radios Trimble vigente](https://drive.google.com/file/d/19o1DHanCRYbwoAKr-1SYVM6f3Ll8Roej/view?usp=sharing).
+* [Trimble Radio Throughput Test Service Manual, P/N 65306-SVC Rev. F](https://drive.google.com/file/d/19o1DHanCRYbwoAKr-1SYVM6f3Ll8Roej/view?usp=sharing).
+* [Tabla de atenuación de radios Trimble vigente](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing).
 * Registros internos y mediciones de referencia del laboratorio.
