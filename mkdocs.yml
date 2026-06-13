@@ -31,6 +31,7 @@ nav:
           - Phantom 4 RTK:
               - Formateo Micro SD Phantom 4 RTK: procedimientos/dji/phantom-4-rtk/phantom4rtk-microsd-format.md
       - Trimble:
+          - Prueba de Rendimiento de Radio: procedimientos/trimble/radio-thru-test.md
           - Colectoras:
               - Configuración FTP WMFTP: procedimientos/trimble/wmftp.md
   - Diagnósticos:

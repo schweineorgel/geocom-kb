@@ -10,6 +10,8 @@ El software es compatible con las funciones estándar del Protocolo de Transfere
 - Navegadores web
 - Clientes FTP dedicados como FileZilla
 
+Descarga: [WMFTP](https://drive.google.com/drive/folders/1QM-8yb-tqlYiGh7M0THCtgeOhqJePBOu?usp=drive_link)
+
 ---
 
 ## Requisitos

@@ -30,3 +30,4 @@
 
 - [Trimble Backup Utility](https://github.com/schweineorgel/trimble-backup-utility/releases/latest)
 - [WMFTP](https://drive.google.com/drive/folders/1QM-8yb-tqlYiGh7M0THCtgeOhqJePBOu?usp=drive_link)
+- [CSG Test Suite](https://firmware.oemgnss.trimble.com/wpfd_file/csgtestsuite-4/)
