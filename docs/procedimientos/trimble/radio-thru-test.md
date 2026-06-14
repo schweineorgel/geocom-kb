@@ -74,7 +74,7 @@ Configurar el transmisor y el receptor de acuerdo con el procedimiento indicado 
 
 1. Configurar el receptor en modo **Base**.
 2. Acceder a la **Web UI** del receptor.
-3. Configurar un **Relay** entre el puerto serial y la radio interna, de forma que los paquetes generados por **SGS Test Suite** sean transmitidos a través de la radio UHF.
+3. Configurar un **Relay** entre el puerto serial y la radio interna, de forma que los paquetes generados por [CSG Test Suite](https://firmware.oemgnss.trimble.com/wpfd_file/csgtestsuite-4/) sean transmitidos a través de la radio UHF.
 4. Verificar que la frecuencia, protocolo y velocidad del enlace inalámbrico coincidan con la configuración del receptor (RX), que en el caso del laboratorio es una TDL450H.
 
 #### 2. Verificar la configuración
