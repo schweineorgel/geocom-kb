@@ -94,10 +94,10 @@ Realizar las conexiones según el diagrama del banco de pruebas.
 Verificar que se estén recibiendo paquetes. Esto se puede realizar mandando paquetes mediante CSG Test Suite con una atenuación baja (por ejemplo, 20-30 dB de atenuación en el atenuador variable JFW).
 
 #### 5. Ajustar la atenuación
-Ajustar la atenuación al valor especificado en la tabla de atenuación correspondiente al equipo bajo prueba.
+Ajustar la atenuación al valor especificado en la [tabla de atenuación](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing) correspondiente al equipo bajo prueba.
 
 #### 6. Ejecutar la prueba
-Ejecutar la prueba, con CSG Test Suite, durante:
+Ejecutar la prueba, con [CSG Test Suite](https://firmware.oemgnss.trimble.com/wpfd_file/csgtestsuite-4/), durante:
 
 - Al menos 10 minutos, o
 - Un mínimo de 500 paquetes transmitidos.
@@ -105,6 +105,12 @@ Ejecutar la prueba, con CSG Test Suite, durante:
 ---
 
 ## Interpretación de Resultados
+
+**Imagen de CSG Test Suite luego de 10 minutos de prueba:**
+
+![CSG Test Suite Windows XP](../../assets/radio-thru-test/csgtestsuite.png){ .center-img }
+
+> **Nota:** Los parametros en los que fijarse luego de 10 minutos son el "10:00 average", este debe encontrarse ≥ 95 %.
 
 ### Resultado satisfactorio (PASS)
 
@@ -136,7 +142,7 @@ Atenuación total = 145 dB
 PRX esperado ≈ -112 dBm
 ```
 
-Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción. Por ejemplo, la documentación del atenuador variable JFW 50BR-016 describe una atenuación de inserción nominal de 1.5 dB.
+Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción.
 
 ---
 
@@ -144,4 +150,5 @@ Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se conside
 
 * [Trimble Radio Throughput Test Service Manual, P/N 65306-SVC Rev. F](https://drive.google.com/file/d/19o1DHanCRYbwoAKr-1SYVM6f3Ll8Roej/view?usp=sharing).
 * [Tabla de atenuación de radios Trimble vigente](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing).
+* [Hoja de datos Atenuador Variable JFW 50BR-001, 50BR-016, 50BR-030 y 50BR-068](https://drive.google.com/file/d/1vvcSm4mZ9I-NrTMg0cUvW7uurtLC4VyQ/view?usp=sharing)
 * Registros internos y mediciones de referencia del laboratorio.
