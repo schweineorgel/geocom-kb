@@ -13,7 +13,8 @@
 
 ### GitHub
 
-- [Repositorio GitHub](https://github.com/schweineorgel/geocom-kb)
+- [Repositorio geocom-kb (página actual)](https://github.com/schweineorgel/geocom-kb)
+- [Repositorio TA-update-checker](https://github.com/schweineorgel/TA-update-checker)
 
 ### Trimble
 - [Trimble MCS](https://mcs.trimble.com/)
