@@ -79,7 +79,10 @@ Configurar el transmisor y el receptor de acuerdo con el procedimiento indicado 
 1. Configurar el receptor en modo **Base**.
 2. Acceder a la **Web UI** del receptor.
 3. Configurar un **Relay** entre el puerto serial y la radio interna, de forma que los paquetes generados por [CSG Test Suite](https://firmware.oemgnss.trimble.com/wpfd_file/csgtestsuite-4/) sean transmitidos a través de la radio UHF.
-4. Verificar que la frecuencia, protocolo y velocidad del enlace inalámbrico coincidan con la configuración del receptor (RX), que en el caso del laboratorio es una TDL450H.
+
+![R12i I/O Config](../../assets/radio-thru-test/r12i_ioconfig.jpeg){ .center-img }
+
+> **Nota:** Verificar que la frecuencia, protocolo y velocidad del enlace inalámbrico coincidan con la configuración del receptor (RX), que en el caso del laboratorio es una TDL450H.
 
 #### 2. Verificar la configuración
 Verificar que ambos equipos tengan la misma configuración:
@@ -97,6 +100,12 @@ Realizar las conexiones según el diagrama del banco de pruebas.
 #### 4. Verificar recepción
 Verificar que se estén recibiendo paquetes. Esto se puede realizar mandando paquetes mediante CSG Test Suite con una atenuación baja (por ejemplo, 20-30 dB de atenuación en el atenuador variable JFW).
 
+En el caso de configurar el receptor GNSS como transmisor (Base), se puede observar la potencia de recepción en la TDL450H:
+
+![TDL450H (RX) Signal Strength](../../assets/radio-thru-test/signalstrength.jpg){ .center-img }
+
+> **Nota:** Durante la prueba se observaría un valor cercano a -100 dBm con una atenuación total de 132 dB.
+
 #### 5. Ajustar la atenuación
 Ajustar la atenuación al valor especificado en la [tabla de atenuación](https://drive.google.com/file/d/1ou1xTluWR4hyRd84WDZT1ZK6dg1R_Bmu/view?usp=sharing) correspondiente al equipo bajo prueba.
 
@@ -112,7 +121,7 @@ Ejecutar la prueba, con [CSG Test Suite](https://firmware.oemgnss.trimble.com/wp
 
 **Imagen de CSG Test Suite luego de 10 minutos de prueba:**
 
-![CSG Test Suite Windows XP](../../assets/radio-thru-test/csgtestsuite.png){ .center-img }
+![CSG Test Suite 10 Minute Average](../../assets/radio-thru-test/csgtestsuite_10min.jpeg){ .center-img }
 
 > **Nota:** Los parametros en los que fijarse luego de 10 minutos son el "10:00 average", este debe encontrarse ≥ 95 %.
 
@@ -146,7 +155,7 @@ Atenuación total = 145 dB
 PRX esperado ≈ -112 dBm
 ```
 
-Diferencias de aproximadamente ±1–2 dB respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción.
+Diferencias de atenuación respecto al valor calculado se consideran normales debido a tolerancias de los componentes y pérdidas de inserción.
 
 ---
 
