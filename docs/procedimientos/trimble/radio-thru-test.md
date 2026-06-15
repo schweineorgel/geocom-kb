@@ -2,7 +2,7 @@
 
 **Implementación del laboratorio:**
 
-![Banco de Pruebas en Físico](../../assets/radio-thru-test/thru-setup.png){ .center-img }
+![Banco de Pruebas en Físico](../../assets/radio-thru-test/thru-setup.jpeg){ .center-img }
 
 ## Objetivo
 
@@ -66,6 +66,10 @@ La unidad de referencia de prueba (*Gold Unit*) utilizada actualmente en el labo
 ---
 
 ## Procedimiento General
+
+**Imagen de CSG Test Suite en computadora de laboratorio:**
+
+![CSG Test Suite Windows 7](../../assets/radio-thru-test/csgtestsuite_win7.jpeg){ .center-img }
 
 #### 1. Configurar equipos
 Configurar el transmisor y el receptor de acuerdo con el procedimiento indicado en el manual de Trimble.
