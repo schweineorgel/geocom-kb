@@ -26,6 +26,10 @@ nav:
   - Inicio: index.md
   - Conceptos:
       - Constelaciones GNSS: conceptos/gnss/constelaciones.md
+  - Ingenieria Inversa:
+      - DJI:
+          - Phantom 4 RTK:
+              - Análisis del Módulo de Brújula del Tren de Aterrizaje DJI Phantom 4 RTK: ingenieria-inversa/dji/phantom-4-rtk/phantom4rtk-trenaterrizaje.md
   - Procedimientos:
       - DJI:
           - Phantom 4 RTK:
