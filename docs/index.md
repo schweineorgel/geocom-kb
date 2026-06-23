@@ -1,4 +1,4 @@
-[![Deploy](https://github.com/schweineorgel/geocom-kb/actions/workflows/ci.yml/badge.svg)](https://github.com/schweineorgel/geocom-kb/actions)
+[![pages-build-deployment](https://github.com/schweineorgel/geocom-kb/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/schweineorgel/geocom-kb/actions/workflows/pages/pages-build-deployment)
 ![Repo Size](https://img.shields.io/github/repo-size/schweineorgel/geocom-kb)
 ![Last Commit](https://img.shields.io/github/last-commit/schweineorgel/geocom-kb)
 
